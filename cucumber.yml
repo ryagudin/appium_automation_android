@@ -1,0 +1,11 @@
+phone: --tags @phone --format html --out report.html --format pretty
+netflix: --tags @netflix --format html --out report.html --format pretty
+wts: --tags @wts --format html --out report.html --format pretty
+rating: --tags @netflix --format html --out report.html --format pretty
+mob: --tags @mob --format html --out report.html --format pretty
+trailer: --tags @trailer --format html --out report.html --format pretty
+smoke: --tags @smoke --format html --out report.html --format pretty
+
+smoke_t: --tags @smoke_t --format html --out report.html --format pretty
+
+
